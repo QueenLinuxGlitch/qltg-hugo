@@ -1,4 +1,4 @@
-baseURL = "https://queenlinuxglitch.github.io/qltg-hugo/docs"
+baseURL = "https://queenlinuxglitch.github.io/qltg-hugo"
 title   = "QLTG"
 
 DefaultContentLanguage = "en"

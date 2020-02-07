@@ -18,7 +18,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "docs"
 
 buildDrafts  = false
 buildFuture  = false
@@ -93,6 +93,7 @@ disableHugoGeneratorInject = false
     # Set to a valid CSS color to change the cursor in the logo.
     # logoColor    = "#67a2c9"
     path = "logo-dark.svg"
+    light-path = "logo-light.svg"
     alt = "QLTG logo, tesseract ornate"
 
   # Social icons

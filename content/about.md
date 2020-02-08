@@ -3,7 +3,7 @@ title = "About"
 date = "2014-04-09"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = " Authors"
 +++
 
 Hugo is the **world’s fastest framework for building websites**. It is written in Go.
@@ -17,3 +17,6 @@ It makes use of a variety of open source projects including:
 * https://github.com/spf13/viper
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NzQ0MDAyMjZdfQ==
+-->

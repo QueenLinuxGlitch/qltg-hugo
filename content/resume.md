@@ -5,7 +5,8 @@ draft: false
 ---
 | Web Development | Networking | Remote Desktop |
 | ---------------------- | ---------------------- | ---------------------- |
-| Hugo | OpenVP
+| Hugo | OpenVPN | AnyDesk |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgwNzUzMjhdfQ==
+eyJoaXN0b3J5IjpbLTE2NzIxNTE3NTNdfQ==
 -->

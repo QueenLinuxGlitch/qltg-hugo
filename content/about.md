@@ -7,8 +7,8 @@ aliases = ["about-us","about-hugo","contact"]
 +++
 
 QLTG is dedicated to the highest-quality customer service, a collaborative attitude, and infinite possibilities.
-
+Through several years in the customer's 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIwNTgxNTAsLTE0MTQyNzUxOTIsMj
-AzMDkwMDczM119
+eyJoaXN0b3J5IjpbLTYwMzk3NjA1OSwtMTQxNDI3NTE5MiwyMD
+MwOTAwNzMzXX0=
 -->

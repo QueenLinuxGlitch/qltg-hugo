@@ -4,7 +4,9 @@
 - Published to GitHub Pages via docs/ directory
 
 ## Features
-- Dark/Light Theme
+- Dark/Light Theme (Dark Default)
+- SVG Logos
+- Mobile-Optimized
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDU5NzQ5MzldfQ==
+eyJoaXN0b3J5IjpbMTIxMjA4NjA4N119
 -->

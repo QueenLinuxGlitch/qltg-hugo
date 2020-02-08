@@ -1,15 +1,12 @@
 +++
 title = "About"
-date = "2014-04-09"
+date = "2020-02-07s"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
   name = " About Us"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
+We are 
 * https://github.com/russross/blackfriday
 * https://github.com/alecthomas/chroma
 * https://github.com/muesli/smartcrop
@@ -18,5 +15,5 @@ It makes use of a variety of open source projects including:
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDkwMDczM119
+eyJoaXN0b3J5IjpbMTIxMTcyMDQ3NywyMDMwOTAwNzMzXX0=
 -->

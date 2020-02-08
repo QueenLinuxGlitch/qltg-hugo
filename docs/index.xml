@@ -6,7 +6,7 @@
     <description>Recent content on QLTG</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 19:21:59 -0600</lastBuildDate>
     
 	<atom:link href="https://queenlinuxglitch.github.io/qltg-hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -33,12 +33,21 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
     </item>
     
     <item>
+      <title>Resume</title>
+      <link>https://queenlinuxglitch.github.io/qltg-hugo/resume/</link>
+      <pubDate>Fri, 07 Feb 2020 19:21:59 -0600</pubDate>
+      
+      <guid>https://queenlinuxglitch.github.io/qltg-hugo/resume/</guid>
+      <description>   Web Development Networking Remote Desktop     Hugo OpenVPN AnyDesk      </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://queenlinuxglitch.github.io/qltg-hugo/about/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://queenlinuxglitch.github.io/qltg-hugo/about/</guid>
-      <description>QLTG is dedicated to the highest-quality customer service, a collaborative attitude, and infinite possibilities.
+      <description>QLTG is dedicated to the highest-quality customer service, a collaborative attitude, and infinite possibilities. Through several years in the direct customer&#39;s eye, we&#39;ve developed a keen sense of user wants, needs, and possibilities. We&#39;ve built solutions of all kinds for various clientele.
   </description>
     </item>
     
